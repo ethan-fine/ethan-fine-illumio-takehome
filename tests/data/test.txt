@@ -1,0 +1,2 @@
+Testing is an essential part of coding.
+Improper testing can lead to bugs, financial loss, and more bad consequences.
